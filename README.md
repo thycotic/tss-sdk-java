@@ -1,6 +1,6 @@
 # The Delinea Secret Server Java SDK
 
-![Deploy](https://github.com/delinea/tss-sdk-java/workflows/Deploy/badge.svg)
+![Deploy](https://github.com/thycotic/tss-sdk-java/workflows/Deploy/badge.svg)
 
 The [Delinea](https://delinea.com/) Secret Server Java SDK contains classes that
 interact with [Secret Server](https://delinea.com/products/secret-server/) via the REST API.
