@@ -1,6 +1,6 @@
-Over the past year, two privileged access management leaders—Centrify and Thycotic— combined to bring to market a comprehensive platform uniquely built to enable, empower, and secure the modern, hybrid enterprise.
-
-All Thycotic integrations have now been rebranded and will be developed and maintained on the new Delinea GitHub. You can find the latest version of this repo [here](https://github.com/DelineaXPM/tss-sdk-java).
+> Over the past year, two privileged access management leaders—Centrify and Thycotic— combined to bring to market a comprehensive platform uniquely built to enable, empower, and secure the modern, hybrid enterprise.
+>
+> All Thycotic integrations have now been rebranded and will be developed and maintained on the new Delinea GitHub. You can find the latest version of this repo [here](https://github.com/DelineaXPM/tss-sdk-java).
 
 # The Delinea Secret Server Java SDK
 
